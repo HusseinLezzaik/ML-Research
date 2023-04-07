@@ -15,3 +15,5 @@
 - [Principles of Effective Research, Michael Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [Mathematical Writing, Donald Knuth](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 - [The Unreasonable Effectiveness of Mathematics, R. Hamming](https://www.imsc.res.in/~sitabhra/teaching/mm12/hamming_unreasonable_effectiveness.pdf)
+
+You can also read my blog about [Choosing between a PhD in CS and Industry](https://husseinlezzaik.github.io/2022/05/08/PhD-in-CS.html)
