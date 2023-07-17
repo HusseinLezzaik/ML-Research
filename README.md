@@ -7,6 +7,7 @@
 - [Writing Reviews for Systems Conferences, Timothy Roscoe](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) ETH Zurich
 - [How to Read a Paper, UWaterloo](http://www.mit.edu/~fadel/courses/MAS.S66/papers/howtoread.pdf)
 - [A PhD in Numbers, David Stutz](https://davidstutz.de/a-phd-in-numbers/)
+- [Lord of the Rings: An Allegory of the PhD?](http://danny.oz.au/danny/humour/phd_lotr.html)
 
 ## Research
 - [The Bitter Lesson, Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
